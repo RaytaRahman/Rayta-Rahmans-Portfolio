@@ -1,0 +1,27 @@
+h1{
+  text-align:center;
+  border-style:solid;
+  border-color: #f4c2c2;
+   } 
+h2{
+    text-align: left;
+}
+div {
+  background-color:#d4f1f9 ;
+  border: 5px solid #c6e2ff ;
+  padding: 10px;
+  margin: 10px;
+  text-align:center;
+  color:black;
+}
+
+p{
+    color: black;
+    text-align: left;
+}
+
+body{
+    background-image: url("https://i.pinimg.com/originals/0b/00/f0/0b00f03f04399c7753e720efbc86987d.jpg");
+    background-repeat: no-repeat;
+    background-size: 2000px;
+}
